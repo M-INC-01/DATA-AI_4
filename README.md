@@ -17,10 +17,15 @@ La nuova versione **DATA-AI\_Chat\_4\_0.6B** rappresenta la quarta generazione d
 ### 🔍 Caratteristiche principali
 
 ✔ **Espressività migliorata**: tono narrativo più coinvolgente e naturale.
+
 ✔ **Precisione grammaticale aumentata**: meno errori sintattici e maggior controllo sui costrutti linguistici.
+
 ✔ **Adattabilità al contesto**: risposte più rilevanti e centrate sul prompt.
+
 ✔ **Riduzione dei completamenti inutili**: risposta più focalizzata senza allungamenti superflui.
+
 ✔ **Alta efficienza**: ottimizzato per CPU, GPU e ambienti embedded grazie al formato GGUF.
+
 ✔ **Compatibilità con Ollama**: per un'inferenza locale semplificata anche offline.
 
 ---
