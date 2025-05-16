@@ -1,5 +1,3 @@
-Ecco il tuo nuovo `README.md`, **completamente aggiornato** per la versione **DATA-AI Chat 4 0.6B**, con i nuovi benchmark, tecnologie, e link attuali:
-
 ---
 
 # M.INC. - Innovazione e Intelligenza Artificiale
