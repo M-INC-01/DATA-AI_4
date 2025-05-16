@@ -44,13 +44,13 @@ I risultati sono stati valutati su **due assi fondamentali**:
 
 (Grammatica, Lessico, Coerenza, Stile Narrativo, Espressività)
 
-![Grafico a Colonne](./grafici/DATA-AI4_colonne.png)
+![Grafico a Colonne](./grafici/DATA-AI_Graphic.png)
 
 ### 🎯 Pertinenza al Prompt
 
 (Attinenza, Originalità, Fluidità, Emozione, Complessità)
 
-![Grafico Radar](./grafici/DATA-AI4_radar.png)
+![Grafico Radar](./grafici/DATA-AI4_Graphic2.png)
 
 > Il modello **DATA-AI\_Chat\_4\_0.6B** ha ottenuto **risultati superiori o comparabili** ai modelli da 1B e 1.5B in quasi tutte le metriche, pur mantenendo dimensioni compatte (600M parametri).
 
