@@ -1,5 +1,3 @@
----
-
 # M.INC. - Innovazione e Intelligenza Artificiale
 
 Benvenuto nel repository ufficiale di **M.INC.**, azienda leader nella ricerca e sviluppo di tecnologie avanzate basate sull'**Intelligenza Artificiale**.
